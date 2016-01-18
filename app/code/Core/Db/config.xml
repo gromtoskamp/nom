@@ -1,0 +1,7 @@
+<config>
+    <active>true</active>
+
+    <models>
+        <class>Core_Db_Model</class>
+    </models>
+</config>
